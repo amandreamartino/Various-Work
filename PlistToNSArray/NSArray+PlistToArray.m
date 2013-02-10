@@ -1,6 +1,6 @@
 //
 //  PlistLib.m
-//  Shake to Bestemmia
+//
 //
 //  Created by Andrea Martino on 2/10/13.
 //  Copyright (c) 2013 Andrea Martino. All rights reserved.
